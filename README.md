@@ -4,7 +4,7 @@ Dynamic Excel sales dashboard powered by Pivot Tables and Timeline Slicer. Filte
 
 ---
 
-🎥 **Video Tutorial:** https://youtu.be/AUDAahdUmMA
+🎥 **Video Tutorial:** https://youtu.be/PFLrO6Rn9qI
 
 
 ---
